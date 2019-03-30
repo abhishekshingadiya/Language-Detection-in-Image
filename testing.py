@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Mar 28 17:34:27 2019
-
-@author: umistry
-"""
-
 import cv2
 import os
 from skimage.feature import local_binary_pattern
