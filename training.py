@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Mar 28 12:42:06 2019
-
-@author: umistry
-"""
 # OpenCV bindings
 import cv2
 # To performing path manipulations 
